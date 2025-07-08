@@ -39,6 +39,3 @@ Cluster 2:
 
 Cluster 3:
 📺 Very short duration and high rating-encoded (TV-MA) → Aftershows or Netflix originals
-
-📌 Future Work
-Integrate more features (cast, country, description sentiment)
